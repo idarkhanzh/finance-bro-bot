@@ -1,0 +1,5 @@
+pytelegrambotapi
+yfinance
+requests
+pandas
+diskcache
