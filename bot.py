@@ -16,7 +16,7 @@ from telegram.ext import (
 
 # ------------------ Configuration -------------------
 TOKEN = "7985642444:AAFhbjzjuIxX4W9fHUOGa6Z4E2mxOPq3yWg"  # <-- Your real bot token
-FMP_KEY = "YOUR_FMP_KEY_HERE"                           # <-- FinancialModelingPrep API key
+FMP_KEY = "vyLVCspzxM9kVHjelzkk7UnzxtTQ86jO"                           # <-- FinancialModelingPrep API key
 
 # Cache to store industry averages for 12 hours
 cache = Cache(directory=os.path.expanduser("~/.financebro_cache"))
